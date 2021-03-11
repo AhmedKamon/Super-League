@@ -1,0 +1,9 @@
+.single{
+    padding: 10px;
+    margin: 50px;
+    color: teal;
+}
+.single .addMore{
+    background-color: rgba(0, 128, 128, 0.171);
+}
+

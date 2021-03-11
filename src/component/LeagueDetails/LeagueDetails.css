@@ -1,0 +1,82 @@
+.mainContainer{
+    background-color: rgba(0, 255, 221, 0.103);
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: rgba(22, 36, 235, 0.842);
+    border-radius: 50px;
+}
+.innerContainer{
+    display: flex;
+}
+.names{
+    text-align: center;
+    margin-top: 10%;
+    text-align: left;
+    padding: 20px;
+    color: azure;
+}
+.detaildImage{
+    width: 50%;
+    padding: 20px;
+}
+.container .detaildImage1{
+    display: none;
+}
+.text-center{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 65px;
+    margin-right: 65px;
+} 
+.coverImg{
+    margin: 0%;
+}
+.secondImg{
+    width: 100%;
+}
+.social-icon {
+    text-align: center;
+}
+.social-icon img{
+    max-width: 50px;
+    max-height: 50px;
+}
+.banner{
+    position: relative;
+}
+.badges{
+    position: absolute;
+    z-index: 1;
+    width: 25%;
+    height: 25%;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    .container{
+        justify-items: center;
+        text-align: center;
+        margin: 20px;
+    }
+    .innerContainer{
+        display: grid;
+        width: 1200px;
+        
+    }
+    .social-icon{
+        display: inline-block;
+    }
+    .badges{
+        position: relative;
+    } 
+    /* .banner{
+        position: absolute;
+    }  */
+   
+  }
+ 

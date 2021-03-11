@@ -1,0 +1,11 @@
+.error{
+    background-color: aquamarine;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+}
+.moreError{
+    color: rgb(233, 175, 50);
+    font-weight: 900;
+}

@@ -1,0 +1,15 @@
+.image h1{
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 35%;
+    z-index : 1;
+}
+img{
+    position: relative;
+    max-height: 400px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
