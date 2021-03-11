@@ -69,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # react-router-AhmedKamon
+# About the WebSite
+ this website is build in a purpose . so that you can findout yout fevorite league details.
+you can scroll and find out ouyr league and just click on the explore button. then you will get all details about your league.
+live site link: https://wonderful-kalam-1ed615.netlify.app/league/4458
